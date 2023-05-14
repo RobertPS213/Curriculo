@@ -1,0 +1,75 @@
+center img{
+	border-radius: 10px;
+}
+h1#mark{
+	color: orange;
+	text-align: left;
+	height: 10px;
+	margin-top:  0px;
+}
+h1.tit{
+	color: orange;
+	text-align: center;
+}
+header h1{
+	text-align: center;
+	color: orange;
+	background-color: #00CED1;
+	padding: 20px 0px 20px 0px;
+}
+h1 span#h1{
+	position: absolute;
+	left: 477px;
+	top: 10px;
+}
+h3{
+	color: blue;
+}
+table tr td span.red{
+	color: red;
+	font-weight: bold;
+}
+table tr td span.reds{
+	color: #9C0808;
+	font-weight: bold;
+}
+table tr td span.azul{
+	color: #0230FF;
+	font-weight: bold;
+}
+table tr.center{
+	text-align: center;
+}
+body{
+	background-color: #add8e6;
+	margin: 0;
+}
+table.bor{
+	border-radius: 6px;
+	box-shadow: 1px 1px 1px 1px black;
+}
+fieldset{
+	background-color: #8E9BE1;
+	margin: 0px 15px 0px 15px;
+}
+legend#on{
+	background-color: #1342E7;
+	color: orange;
+	padding: 0 10px;
+}
+ul li span{
+	color: blue;	
+}
+ul li{
+	color: orange;
+	font-weight: bold;
+	font-size: 20px;	
+}
+h2#hab{
+	color: blue;
+	font-weight: bold;
+	margin-left: 20px;
+}
+header nav a:hover{
+	color: #1342E7;
+}
